@@ -1,2 +1,2 @@
-So, now we have a webhook, to https://oer.hospitalitylearning.net/foo
+So, now we have a webhook, to https://webhook.devoperative.com/
 
